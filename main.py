@@ -1,3 +1,5 @@
+print('We add more function towards this module')
+print('use vim -o2 fileName1 fileName2 to split the screen of termina')
 
 
 
